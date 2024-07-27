@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvem1&label=Profile%20views&color=0e75b6&style=flat" alt="dvem1" /> </p>
 
-- 💬 **빅데이터, 파이썬, AI, 플러터**에 대해 물어보세요
-
 <h3 align="left">저와 소통하세요:</h3>
 <p align="left">
 </p>
